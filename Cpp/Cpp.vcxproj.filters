@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="08_static_concept.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="09_function_overloading.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="10_friend_function_demo.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="11_friend_function_max_min.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="12_swap_using_friend_fcn.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="13_consdemo.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="14_paracons.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="15_paracons.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="16_copycons.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="17_decons.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="18_operator_overloading.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="19_operator_overloading.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="20_operator_overloading.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="21_operator_overloading.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="22_simple_inheritance.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="23_this_keyword.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="24_this_keyword.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="25_virtual.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="26_fortpup.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="27_VBC.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="28_accessing_parent_class_constructor.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="29_accessing_parent_class_constructor.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="30_accessing_parent_class_constructor.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="31_constructors_in_defined_class.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="32_private.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="33_private.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="34_protected.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="35_AM.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="36_abstraction.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="37_abstraction.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="38_classtemp.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="39_overloadingtemplates.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="40_catching all exceptions.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="41_rethrowinganexception.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="42_testing throw restrictions.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="43_new.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="44_new.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Pattern.cpp">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01_strong_number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="02_class_intro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03_class_time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04_class_display time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="05_object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="06_object_time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="07_static_concept.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20180220 basic c++ ques.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

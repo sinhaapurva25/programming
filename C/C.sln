@@ -1,0 +1,136 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C", "C.vcxproj", "{3B85876A-EB54-4611-B362-E45BADC85100}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{C5EF0E96-022B-407C-AAEF-883E484B4180}"
+	ProjectSection(SolutionItems) = preProject
+		Array\27 check if two matrices are equal or not.c = Array\27 check if two matrices are equal or not.c
+		Array\28 sum of diagnol elements of a matrix.c = Array\28 sum of diagnol elements of a matrix.c
+		Array\29 _sum of minor diagonal elements of a matrix.c = Array\29 _sum of minor diagonal elements of a matrix.c
+		Array\30_sum of each row and columns of a matrix.c = Array\30_sum of each row and columns of a matrix.c
+		Array\31_interchange diagonals of a matrix.c = Array\31_interchange diagonals of a matrix.c
+		Array\32,33 combined sum of upper and lower triangular matrix.c = Array\32,33 combined sum of upper and lower triangular matrix.c
+		Array\36_transpose of matrix.c = Array\36_transpose of matrix.c
+		Array\37 determinant of a matrix.c = Array\37 determinant of a matrix.c
+		Array\38_identity matrix.c = Array\38_identity matrix.c
+		Array\39_sparse matrix.c = Array\39_sparse matrix.c
+		Array\40_symmetric matrix.c = Array\40_symmetric matrix.c
+		Array\array_ascending.c = Array\array_ascending.c
+		Array\duplicate elements.c = Array\duplicate elements.c
+		Array\frequency_of_an_element.c = Array\frequency_of_an_element.c
+		Array\Inserting_element_in_array.c = Array\Inserting_element_in_array.c
+		Array\merging.c = Array\merging.c
+		Array\odd_even_separate.c = Array\odd_even_separate.c
+		Array\reverse_of_an_array.c = Array\reverse_of_an_array.c
+		Array\self addition with main diagnol.c = Array\self addition with main diagnol.c
+		Array\sum of diagnol elements.c = Array\sum of diagnol elements.c
+		Array\unique_element.c = Array\unique_element.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Structure", "Data Structure", "{BBDA96F1-89F8-441E-B4C1-F0D0254BC0C5}"
+	ProjectSection(SolutionItems) = preProject
+		Data Structure\binary search.c = Data Structure\binary search.c
+		Data Structure\BubbleSort.c = Data Structure\BubbleSort.c
+		Data Structure\HeapSort.c = Data Structure\HeapSort.c
+		Data Structure\InsertionSort.c = Data Structure\InsertionSort.c
+		Data Structure\linked list all operations.c = Data Structure\linked list all operations.c
+		Data Structure\linked list.c = Data Structure\linked list.c
+		Data Structure\linked list_without using many variables for pointers.c = Data Structure\linked list_without using many variables for pointers.c
+		Data Structure\MergeSort.c = Data Structure\MergeSort.c
+		Data Structure\queue implementation.c = Data Structure\queue implementation.c
+		Data Structure\queue using linked list.c = Data Structure\queue using linked list.c
+		Data Structure\QuickSort.c = Data Structure\QuickSort.c
+		Data Structure\SelectionSort.c = Data Structure\SelectionSort.c
+		Data Structure\Single Linked List.c = Data Structure\Single Linked List.c
+		Data Structure\stack implementation.c = Data Structure\stack implementation.c
+		Data Structure\stack using linked list.c = Data Structure\stack using linked list.c
+		Data Structure\use of exit and break.c = Data Structure\use of exit and break.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{C7942BC4-466E-4432-AEA4-38402C85B023}"
+	ProjectSection(SolutionItems) = preProject
+		Functions\access array using function_NRNA.CPP = Functions\access array using function_NRNA.CPP
+		Functions\Add two numbers_HRNA.CPP = Functions\Add two numbers_HRNA.CPP
+		Functions\array to function.c = Functions\array to function.c
+		Functions\array_min_max_using_function.c = Functions\array_min_max_using_function.c
+		Functions\Multiple.c = Functions\Multiple.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pointer", "Pointer", "{92E7912A-CB0A-47B2-9863-E0F2CE4A4BC7}"
+	ProjectSection(SolutionItems) = preProject
+		Pointer\access an array using Dynamic Memory Allocation.c = Pointer\access an array using Dynamic Memory Allocation.c
+		Pointer\access an array using pointers.c = Pointer\access an array using pointers.c
+		Pointer\array dynamic memory allocation.c = Pointer\array dynamic memory allocation.c
+		Pointer\Call by reference.c = Pointer\Call by reference.c
+		Pointer\copy one array to another using DMA.c = Pointer\copy one array to another using DMA.c
+		Pointer\dma pointer using structure(1).c = Pointer\dma pointer using structure(1).c
+		Pointer\dma pointer using structure.c = Pointer\dma pointer using structure.c
+		Pointer\exchange arrays(1).c = Pointer\exchange arrays(1).c
+		Pointer\exchange arrays.c = Pointer\exchange arrays.c
+		Pointer\Pointer array dynamic memory allocation search an element.c = Pointer\Pointer array dynamic memory allocation search an element.c
+		Pointer\Pointer to pointer.c = Pointer\Pointer to pointer.c
+		Pointer\pointers access 2D array using pointers.c = Pointer\pointers access 2D array using pointers.c
+		Pointer\Pointers Increment and Decrement.c = Pointer\Pointers Increment and Decrement.c
+		Pointer\Pointers Intro and Arithmetic.c = Pointer\Pointers Intro and Arithmetic.c
+		Pointer\Reverse an array(2).c = Pointer\Reverse an array(2).c
+		Pointer\Reverse an array.c = Pointer\Reverse an array.c
+		Pointer\Reverse an arraydocx(1).c = Pointer\Reverse an arraydocx(1).c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{A4807F85-7684-4941-9FB4-B3DE02C4B4D6}"
+	ProjectSection(SolutionItems) = preProject
+		Recursion\nth fibonacci term.c = Recursion\nth fibonacci term.c
+		Recursion\recursion factorial of a number.c = Recursion\recursion factorial of a number.c
+		Recursion\Recursion multiple.c = Recursion\Recursion multiple.c
+		Recursion\reverse a number.c = Recursion\reverse a number.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{4EB99A67-A474-4D5E-ACAA-1F3581C7C22F}"
+	ProjectSection(SolutionItems) = preProject
+		String\Multiple.c = String\Multiple.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structure", "Structure", "{739D9621-0EE6-467E-BDED-462304EC24F8}"
+	ProjectSection(SolutionItems) = preProject
+		Structure\array of structure.c = Structure\array of structure.c
+		Structure\nested loop.c = Structure\nested loop.c
+		Structure\Pointer of a structure_1.c = Structure\Pointer of a structure_1.c
+		Structure\Pointer of a structure_2.c = Structure\Pointer of a structure_2.c
+		Structure\Structure intro.c = Structure\Structure intro.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linked List w3schools", "Linked List w3schools", "{5377E337-1E95-4EAA-916E-973DF1B03E5F}"
+	ProjectSection(SolutionItems) = preProject
+		Data Structure\Linked List w3schools\create and display Singly Linked List.c = Data Structure\Linked List w3schools\create and display Singly Linked List.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Debug|x64.ActiveCfg = Debug|x64
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Debug|x64.Build.0 = Debug|x64
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Debug|x86.Build.0 = Debug|Win32
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Release|x64.ActiveCfg = Release|x64
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Release|x64.Build.0 = Release|x64
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Release|x86.ActiveCfg = Release|Win32
+		{3B85876A-EB54-4611-B362-E45BADC85100}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5377E337-1E95-4EAA-916E-973DF1B03E5F} = {BBDA96F1-89F8-441E-B4C1-F0D0254BC0C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC7C57EE-2BFE-48C1-A495-7C394D377BD7}
+	EndGlobalSection
+EndGlobal
