@@ -1,23 +1,21 @@
-def add(x):  
-    return x+1  
-def sub(x):  
-    return x-1  
-def operator(func, x):  
-    temp = func(x)  
-    return temp  
-print(operator(sub,10))
-print(operator(add,20))
+def add(x,y):
+    return x,y
+def sub(x,y):
+    return x-y
+def operation (op,x,y):
+    return op(x,y)
+print(operation(add,3,4))
 
-# nested function
-# def func():
-#     print("func")
-#     def func1():
-#         print("func1")
-#     def func2():
-#         print("func2")
-#     func1()
-#     func2()
-# func()
+## nested function
+def func():
+    print("func")
+    def func1():
+        print("func1")
+    def func2():
+        print("func2")
+    func1()
+    func2()
+func()
 
 ##decorators
 # ##1

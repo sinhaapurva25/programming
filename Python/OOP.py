@@ -15,9 +15,9 @@ class B(A,C):
         super(B,self).__init__()
     def funcB(self):
         print("classB().funcB()")
-        # self.funcB()
-        # self.c += 1
-        # print(self.c)
+        ## self.funcB()
+        ## self.c += 1
+        ## print(self.c)
 obj = B
 B().funcB()
 # print(isinstance("Hello",(float,int,str,list,dict,tuple)))

@@ -14,7 +14,6 @@ def np_ravel(a):
 def transpose(a):
     print(np.transpose(a))
     print(a.T)
-
 def swap_axis(a):
     arr = a=np.arange(2*3*4).reshape(2, 3, 4)
     print(arr)
@@ -23,13 +22,10 @@ def swap_axis(a):
     # print(arr_swap==arr_swap_1)
     print(arr_swap.shape)
     print(arr_swap)
-
-
 def rol_axis():
     arr = np.array((1,2,3,4))
     gfg = np.rollaxis(arr, 3, 1)
     print (gfg)
-
 a = np.arange(100,110,1)
 a = a.reshape(2,5)
 # print(a)

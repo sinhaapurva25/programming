@@ -5,8 +5,8 @@ a = np.asarray(x)
 # print(a)
 
 x = [1,2,3]
-a = np.asarray(x, dtype = float)
-# print(a)
+a = np.asarray(np.arange(20,101,20), dtype = float)
+print(a)
 
 x = (1,2,3) 
 a = np.asarray(x)
@@ -23,7 +23,7 @@ a = u'helló wörld from example'
 # print(a.encode('utf-8'))
 
 list = range(5)
-print(list)
+# print(list)
 it = iter(list)
 x = np.fromiter(it, dtype = float) 
-print(x)
+# print(x)

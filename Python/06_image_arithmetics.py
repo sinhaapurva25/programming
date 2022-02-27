@@ -2,8 +2,8 @@ import cv2 as cv
 import numpy as np
 from matplotlib import pyplot as plt
 
-path1=r'1.jpg'
-path2=r'2.jpg'
+path1=r'0.6286412288950787.jpg'
+path2=r'0.6286412288950787.jpg'
 
 img1=cv.imread(path1, cv.IMREAD_REDUCED_COLOR_8)
 img2=cv.imread(path2, cv.IMREAD_REDUCED_COLOR_8)

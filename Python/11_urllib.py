@@ -23,5 +23,8 @@ def foo():
     print(k)
 
 x=['a','b','c','d']
-pos=x.index("geeksforgeeks")
-print(pos*3)
+try:
+    pos=x.index("geeksforgeeks")
+    print(pos*3)
+except Exception:
+    print("Value Error")

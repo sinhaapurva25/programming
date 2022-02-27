@@ -20,7 +20,7 @@ def my_function():
     output = list(zip(fruits,quantities, prices))
     return output
 
-# print(my_function())
+print(my_function())
 
 def func1():
     letters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -55,9 +55,9 @@ class sorting:
     def getColor(self):    
         return self.color
 classCall = sorting()
-# print(classCall.arr())
-# print(classCall.ax())
-# print(classCall.ax0())
-print(classCall.ax1())
+## print(classCall.arr())
+## print(classCall.ax())
+## print(classCall.ax0())
+# print(classCall.ax1())
 
-print("5<6") if 5<6 else print("6>5")
+# print("5<6") if 5<6 else print("6>5")

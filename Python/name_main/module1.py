@@ -1,2 +1,2 @@
-# print(__name__)
-k = 10
+print(__name__)
+# k = 10

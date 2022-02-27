@@ -1,6 +1,6 @@
 import numpy
 ## 1
-# char_arr = [i for i in input().split()]
+char_arr = [i for i in input().split()]# char_arr = list(map(chr,input().split()))
 # string = input().split()
 # for substring in string:
 #     equal = 0

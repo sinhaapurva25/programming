@@ -6,10 +6,7 @@
 
 list1 = [10, 11, 12, 13, 14] 
 list2 = [20, 30, 42]
- 
-res = [j for i in [list1, list2] for j in i] 
- 
-print ("Concatenated list:\n"+ str(res))
+print([j for i in [list1,list2] for j in i])
 
 generator = (i*i for i in range(0, 5))
 print(list(generator))

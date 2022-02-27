@@ -8,6 +8,7 @@ def missingNumber():
     l = list(range(1,101))
     l.remove(100)
     print(missnum(l))
+k = missingNumber()
 
 def duplicateInList():
     lst = [random.randint(0,5) for i in range(50)]
@@ -101,9 +102,9 @@ def strJoin():
     print(result)
 # strJoin()
 
-first_name = "Nora"
-favorite_language = "Python"
-print(f"Hi, I'm {first_name}. I'm learning {favorite_language}.")
+# first_name = "Nora"
+# favorite_language = "Python"
+# print(f"Hi, I'm {first_name}. I'm learning {favorite_language}.")
 
-value = 5
-print(f"{value} multiplied by 2 is: {value * 2}")
+# value = 5
+# print(f"{value} multiplied by 2 is: {value * 2}")

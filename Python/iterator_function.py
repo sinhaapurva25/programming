@@ -29,4 +29,3 @@ class Human:
     m = 0
     n = 9
     pass
-
